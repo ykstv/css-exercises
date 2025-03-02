@@ -44,3 +44,14 @@ body {
 .info {
   max-width: 200px;
 }
+
+a {
+  /* this removes the line under our links */
+  text-decoration: none;
+  color: rebeccapurple;
+}
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
